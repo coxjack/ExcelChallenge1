@@ -11,12 +11,12 @@ This gives us an opportunity to draw conclusions about the successfulness of cam
 ## 2. Analysis and Challenges
 ###
 * The two breakdowns of the data we will look at are viewing the different outcomes of theater kickstarters based on their launch dates and viewing the different outcomes of theater kickstarters based on their goal amounts. This will give our subject a good idea on when it best to launch her campaign and for how much to launch it for. While our data only encompasses 9 years of campaigns it is still a good enough time frame for our subject to make a decision.
-* I did not face any specific challenges during this analysis but particular challenges that could be faced are a lack of familiarity in excel or a smaller less encompassing dataset.
+* I did not face any specific challenges during this analysis but particular challenges that could be faced are a lack of familiarity in excel or a smaller, less encompassing dataset.
 ![Theater Outcomes by Launch Date](https://github.com/coxjack/ExcelChallenge1/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ![Outcomes Based on Goals](https://github.com/coxjack/ExcelChallenge1/blob/main/Resources/Outcomes_vs_Goals.png)
 ## 3. Results
 ###
-* May & June are the most successful months to launch a campaign and it continues to drop as the year goes on, until October where is the an uptick in successful and failed campaigns. Our subject should launch her campaign in the early summer May or June.
+* May & June are the most successful months to launch a campaign and it continues to drop as the year goes on, until October when is the an uptick in successful and failed campaigns. Our subject should launch her campaign in the early summer, May or June.
 * December is the worst month to launch a campaign as the successful and failed campaigns are almost equal to each other. If our subject cannot launch in May or June she should absolutely avoid doing it in December as it is the only month where success and failure are almost equal as likely to occur.
 * Campaigns are more successful than failed up to the range of $15000-$19999 where a campaign failing becomes more likely than it succeeding. This holds true until the range of $35000-$39999 as well for the range of $40000-$44999. Anything above $44999 is highly likely to fail. Our subject should either keep her campaign goal below $15000 or make it from the range of $35000-$44999. Avoiding the middle ground of $15000-$34999 and the high end of $45000+ gives her the best chance of success.
 * Limitations of the dataset
